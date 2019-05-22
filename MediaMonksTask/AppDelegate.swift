@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         FilePathHandler.createFolder(newFolder: "AlbumTask")
 
+        print("testing")
         // Override point for customization after application launch.
         return true
     }
